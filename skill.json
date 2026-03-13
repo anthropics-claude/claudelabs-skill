@@ -1,0 +1,24 @@
+{
+  "name": "claudelabs",
+  "display_name": "ClaudeLabs",
+  "ticker": "CLABS",
+  "version": "1.0.0",
+  "description": "ClaudeLabs — AI-powered research and development skill for the Bankr ecosystem.",
+  "author": "anthropics-claude",
+  "homepage": "https://github.com/anthropics-claude/claudelabs-skill",
+  "license": "MIT",
+  "agents": [
+    "Claude Code",
+    "OpenClaw",
+    "Coder",
+    "Gemini CLI",
+    "GitHub Copilot"
+  ],
+  "skills": [
+    {
+      "name": "claudelabs",
+      "description": "ClaudeLabs core skill for AI research and on-chain analysis",
+      "entry": "index.js"
+    }
+  ]
+}
