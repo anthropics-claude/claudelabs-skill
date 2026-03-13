@@ -27,6 +27,8 @@ Once installed, the ClaudeLabs skill is available to your agents (Claude Code, O
 
 - **info**: Get skill information
 - **analyze**: Perform AI-powered research and on-chain analysis
+- **trade**: Execute a trade or automation (e.g., DCA, Limit Orders) autonomously
+- **portfolio**: Fetch the current wallet portfolio across all chains
 
 ## Author
 
